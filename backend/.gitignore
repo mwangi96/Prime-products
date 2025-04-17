@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.DS_Store
+logs/
+*.log
+npm-debug.log*
+
+# React
+client/build/
+client/node_modules/
+client/.env
+
+# System
+*.DS_Store
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# IDE
+.vscode/
+.idea/
